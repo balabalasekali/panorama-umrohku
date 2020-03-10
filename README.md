@@ -1,0 +1,2 @@
+# panorama-umrohku
+viewpaket
